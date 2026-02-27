@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faeze Salehi</h1>
+<h1 align="center">Hi 👋, I'm Faezeh Salehi</h1>
 <h3 align="center">Computer Engineering Graduate | Deep Learning & NLP Enthusiast | Neuro-AI Explorer</h3>
 
 ---
